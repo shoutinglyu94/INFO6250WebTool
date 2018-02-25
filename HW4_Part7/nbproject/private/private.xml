@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/WebTool/HW4_Part7/src/java/com/hw4/controller/CSVController.java</file>
+            <file>file:/D:/WebTool/HW4_Part7/web/WEB-INF/jsp/read.jsp</file>
+            <file>file:/D:/WebTool/HW4_Part7/src/java/com/hw4/dao/CSVDAO.java</file>
+            <file>file:/D:/WebTool/HW4_Part7/src/java/com/hw4/pojo/SalesOrder.java</file>
+            <file>file:/D:/WebTool/HW4_Part7/web/WEB-INF/tlds/hw4.tld</file>
+            <file>file:/D:/WebTool/HW4_Part7/src/java/com/hw4/tag/ReadFile.java</file>
+            <file>file:/D:/WebTool/HW4_Part7/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/D:/WebTool/HW4_Part7/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
